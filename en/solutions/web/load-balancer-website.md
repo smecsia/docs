@@ -215,5 +215,5 @@ To create a network load balancer:
 
 ## How to delete created resources {#clear-out}
 
-To stop paying for deployed servers, [delete](../../compute/operations/vm-control/vm-delete.md) the virtual machines `dns-lb-tutorial-web-ru-central1-a` and `dns-lb-tutorial-web-ru-central1-b`, and the [load balancer](../../network-load-balancer/operations/load-balancer-delete) `lb-tutorial-web`.
+To stop paying for deployed servers, [delete](../../compute/operations/vm-control/vm-delete.md) the virtual machines `lb-tutorial-web-ru-central1-a` and `lb-tutorial-web-ru-central1-b`, and the [load balancer](../../network-load-balancer/operations/load-balancer-delete) `lb-tutorial-web`.
 
